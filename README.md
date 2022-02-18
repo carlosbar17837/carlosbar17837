@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlosbar17837
-- 👀 I’m interested in High end Software Development
+- 👀 I’m interested in High End Software Development
 - 🌱 I’m currently learning everyday @ Platzi
 - 💞️ I’m looking to collaborate on HTML/CSS/JS Projects and I am also getting an Azure Certificate
 - 📫 You can reach me at Netzcarlos@outlook.com 
