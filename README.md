@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @carlosbar17837
-- 🖥️ I'm a computer technician 
+- 🖥️ I'm a computer technician and Youtuber
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning everyday @ Platzi
+- 🌱 I’m currently learning every day @ Platzi
 - 📫 You can reach me at Netzcarlos@outlook.com 
-- ❤️ Married to the best woman on the World @Eliz_Op on Twitter 
+- ❤️ Married to the best woman in the World @Eliz_Op on Twitter 
 
 <!---
 carlosbar17837/carlosbar17837 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
