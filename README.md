@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosbar17837
 - 🖥️ I'm a computer technician and Youtuber
-- 👀 I’m interested in Software Development
+- 👀 I’m studying to become a Software Development
 - 🌱 I’m currently learning every day @ Platzi
 - 📫 You can reach me at Netzcarlos@outlook.com 
 - ❤️ Married to the best woman in the World @Eliz_Op on Twitter 
