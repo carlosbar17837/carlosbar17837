@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning every day @ Platzi
 - 📫 You can reach me at Netzcarlos@outlook.com 
 - ❤️ Married to the best woman in the World
-- 🏢 Owner of Netz, a digital marketing agency helping latino owned business thrive
+- 🏢 Owner of Netz, a digital marketing agency helping Latino-owned businesses thrive
 
 <!---
 carlosbar17837/carlosbar17837 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
