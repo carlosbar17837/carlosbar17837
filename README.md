@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @carlosbar17837
 - 🖥️ I'm a computer technician and Digital Marketing Specialist
-- 👀 I’m studying to become a Software Development
+- 👀 I’m studying to become a better Software Developer
 - 🌱 I’m currently learning every day @ Platzi
 - 📫 You can reach me at Netzcarlos@outlook.com 
-- ❤️ Married to the best woman in the World @Eliz_Op on Twitter
+- ❤️ Married to the best woman in the World
 - 🏢 Owner of Netz, a digital marketing agency helping latino owned business thrive
 
 <!---
